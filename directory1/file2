@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 this is an exisiting file
+=======
+file was modified by Rohan
+>>>>>>> fca1c1f8d9bae0867435c3c850bee8b9e04ba66a
